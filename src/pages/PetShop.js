@@ -8,8 +8,8 @@ import Carousel, { getInputRangeFromIndexes } from 'react-native-snap-carousel';
 import MapViewDirections from 'react-native-maps-directions';
 import { getDistance, getPreciseDistance } from 'geolib';
 import StarRating from 'react-native-star-rating';
-var ApiKey = "AIzaSyAhcww9g5Zz8Z-It8uYWnObJhB03rHXz_g";
-var IpKey = "192.168.2.20";
+var ApiKey = "...";
+var IpKey = "...";
 var screen = Dimensions.get("window").width;
 var realheight = Dimensions.get("window").height;
 export default class Maps extends Component {
