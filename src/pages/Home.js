@@ -15,7 +15,7 @@ import DogWalk from '../components/dogwalk'
 import Medicine from '../components/medicine'
 import DogCafe from '../components/DogCafe'
 import Options from '../components/options'
-var IpKey = "192.168.2.20";
+var IpKey = "...";
 
 var screen = Dimensions.get("window").width;
 var realheight = Dimensions.get("window").height;
