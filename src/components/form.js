@@ -5,7 +5,7 @@ import {Actions} from 'react-native-router-flux'
 import { StackActions } from '@react-navigation/native';
 var screen = Dimensions.get("window").width;
 var realheight = Dimensions.get("window").height;
-var IpKey = "192.168.2.20";
+var IpKey = "...";
 
 export default class Form extends Component {
 
