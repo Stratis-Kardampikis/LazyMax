@@ -6,7 +6,7 @@ import { Actions } from 'react-native-router-flux';
 import LogoSettings from '../components/logoSettings'
 var screen = Dimensions.get("window").width;
 var realheight = Dimensions.get("window").height;
-var IpKey = "192.168.2.20";
+var IpKey = "...";
 class SettingForm extends Component {
 
   constructor() {
