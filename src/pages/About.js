@@ -10,7 +10,7 @@ import { StyleSheet,
 import AboutForm from '../components/aboutForm'
 var screen = Dimensions.get("window").width;
 var realheight = Dimensions.get("window").height;
-var IpKey = "192.168.2.20";
+var IpKey = "...";
 
 class About extends React.Component {
 
