@@ -18,7 +18,7 @@ import GestureRecognizer, {swipeDirections} from 'react-native-swipe-gestures';
 import { getRhumbLineBearing } from 'geolib';
 import { ListItem } from 'react-native-elements'
 import moment from 'moment'
-var IpKey = "192.168.2.20";
+var IpKey = "...";
 
 
 var screen = Dimensions.get("window").width;
