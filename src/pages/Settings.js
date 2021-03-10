@@ -14,7 +14,7 @@ var realheight = Dimensions.get("window").height;
 import LogoSettings from '../components/logoSettings'
 import SettingsForm from '../components/settingform'
 import {Actions} from 'react-native-router-flux'
-var IpKey = "192.168.2.20";
+var IpKey = "...";
 
 
 var screen = Dimensions.get("window").width;
